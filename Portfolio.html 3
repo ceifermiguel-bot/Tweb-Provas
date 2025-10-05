@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meus Projetos</title>
+</head>
+<body>
+
+  <section id="meus-projetos">
+    <h2>Meus Projetos</h2>
+
+    <article>
+      <h3>Projeto Aurora</h3>
+      <img src="projeto1.jpg" alt="Imagem do Projeto Aurora" width="300">
+      <p>Um site criativo que combina poesia e arte visual para inspirar o visitante.</p>
+      <a href="https://exemplo.com/projeto-aurora" target="_blank">Ver projeto</a>
+    </article>
+
+    <article>
+      <h3>App Plantinhas</h3>
+      <img src="projeto2.jpg" alt="Imagem do App Plantinhas" width="300">
+      <p>Aplicativo que ajuda iniciantes a cuidar de suas plantas com dicas e lembretes personalizados.</p>
+      <a href="https://exemplo.com/app-plantinhas" target="_blank">Ver projeto</a>
+    </article>
+
+    <article>
+      <h3>Jogo Memória Musical</h3>
+      <img src="projeto3.jpg" alt="Imagem do Jogo Memória Musical" width="300">
+      <p>Um jogo educativo que estimula a memória auditiva por meio de sons e melodias.</p>
+      <a href="https://exemplo.com/memoria-musical" target="_blank">Ver projeto</a>
+    </article>
+  </section>
+
+</body>
+</html>
+  
