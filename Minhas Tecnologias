@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Minhas Tecnologias</title>
+</head>
+<body>
+
+  <section id="minhas-tecnologias">
+    <h2>Minhas Tecnologias</h2>
+    <ul>
+      <li>
+        <strong>HTML</strong>
+        <p>É a linguagem usada para estruturar o conteúdo das páginas da web, como textos, imagens e links.</p>
+      </li>
+      <li>
+        <strong>CSS</strong>
+        <p>Utilizado para estilizar as páginas, controlando cores, fontes, tamanhos e o layout visual.</p>
+      </li>
+      <li>
+        <strong>JavaScript</strong>
+        <p>Permite adicionar interatividade e dinamismo às páginas, tornando-as mais atraentes e funcionais.</p>
+      </li>
+    </ul>
+  </section>
+
+</body>
+</html>
+  
